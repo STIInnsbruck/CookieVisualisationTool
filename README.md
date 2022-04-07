@@ -1,1 +1,1 @@
-# CookieVisialisationTool
+# CookieVisualisationTool
